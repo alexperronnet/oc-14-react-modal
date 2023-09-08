@@ -1,5 +1,5 @@
 const config = {
-  '*.{mjs,cjs,js,jsx,ts,tsx}': ['eslint --fix', 'vitest related --run'],
+  '*.{mjs,cjs,js,jsx,ts,tsx}': ['eslint --fix'],
 }
 
 module.exports = config
