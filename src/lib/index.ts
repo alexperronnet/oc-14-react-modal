@@ -1,5 +1,5 @@
-import '@/lib/styles.css'
+import './styles.css'
 
-export * from '@/lib/alert-dialog'
-export * from '@/lib/dialog'
-export * from '@/lib/sheet'
+export * from './alert-dialog'
+export * from './dialog'
+export * from './sheet'
