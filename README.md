@@ -3,7 +3,7 @@
 > [!WARNING]
 > This repository is part of my "JavaScript React Developer" training program with [OpenClassrooms](https://openclassrooms.com/fr/). After the program concludes on September 20th, 2023, the project will no longer receive updates or maintenance. This plugin is intended for learning purposes only. Please **DO NOT** use it in a production environment.
 
-[Preview](./.github/assets/preview.gif)
+![Preview](./.github/assets/preview.gif)
 
 ## Project Overview
 
