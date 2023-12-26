@@ -1,7 +1,7 @@
 # oc-14-react-dialog
 
-> [!WARNING]
-> This repository is part of my "JavaScript React Developer" training program with [OpenClassrooms](https://openclassrooms.com/fr/). After the program concludes on September 20th, 2023, the project will no longer receive updates or maintenance. This plugin is intended for learning purposes only. Please **DO NOT** use it in a production environment.
+> [!CAUTION]
+> This repository contains a project completed as part of my training at [OpenClassrooms](https://openclassrooms.com). Having successfully concluded the program, the project is now archived and is no longer maintained. Please note that the repository remains available for reference purposes only; some links or features may not work as expected.
 
 ![Preview](./.github/assets/preview.gif)
 
